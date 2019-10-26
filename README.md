@@ -1,2 +1,2 @@
-# Djangowebsite
-ที่เก็บ website http://doffy.pythonanywhere.com/
+# sombats
+websource project repo for https://sombats.pythonanywhere.com
